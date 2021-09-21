@@ -1,6 +1,7 @@
 # Acompanhamento MAC0214
 
-# Semana 1
+<details>
+  <summary>Semana 1</summary>
 
 ## 20/08/21
 
@@ -54,6 +55,8 @@ Soluções: [A](https://codeforces.com/contest/1555/submission/126722293), [B](h
 ## Tempo treinando na semana: _8h30m_
 ## Tempo total: _8h30m_
 
+</details>
+  
 # Semana 2 
 
 ## 23/08/2021
