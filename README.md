@@ -1,5 +1,3 @@
-# Acompanhamento MAC0214
-
 # Semana 1
 
 ## 20/08/21
