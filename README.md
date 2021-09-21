@@ -57,7 +57,8 @@ Soluções: [A](https://codeforces.com/contest/1555/submission/126722293), [B](h
 
 </details>
   
-# Semana 2 
+<details>
+  <summary>Semana 2</summary> 
 
 ## 23/08/2021
 ### Resolução do problema (~30m)
@@ -171,7 +172,10 @@ Soluções: [A2](https://github.com/antoniomsah/MAC0214/blob/main/FacebookHacker
 ## Tempo treinando na semana: _22h05m_
 ## Tempo total: _30h35m_
 
-# Semana 3
+</details>
+  
+<details>
+  <summary>Semana 3</summary>
 
 ## 01/09/2021
 
@@ -208,7 +212,10 @@ Soluções: [C](https://codeforces.com/gym/102890/submission/127861845), [D](htt
 ## Tempo treinando na semana: _10h_
 ## Tempo total: _40h35m_
 
-# Semana 4
+</details>
+  
+<details>
+  <summary>Semana 4</summary>
 
 ## 08/09/2021
 
@@ -247,7 +254,10 @@ Soluções: [A](https://codeforces.com/contest/1566/submission/128597723), [B](h
 ## Tempo treinando na semana: _5h30m_
 ## Tempo total: _46h05m_
 
-# Semana 5
+</details>
+
+<details>
+  <summary>Semana 5</summary>
 
 ## 17/09/2021
 
@@ -272,7 +282,10 @@ Soluções: [A](https://codeforces.com/gym/102791/submission/129095092), [B](htt
 ## Tempo treinando na semana: _4h_
 ## Tempo total: _50h05m_
 
-# Semana 6
+</details>
+ 
+<details>
+  <summary>Semana 6</summary>
 
 ## 20/09/2021
 
@@ -309,3 +322,5 @@ Soluções: [A](https://codeforces.com/contest/1574/submission/129344855), [B](h
 [M. Moon Dancers](https://codeforces.com/gym/103274/problem/M)
 
 Soluções: [A](https://codeforces.com/gym/103274/submission/129445429), [C](https://codeforces.com/gym/103274/submission/129442858), [E](https://codeforces.com/gym/103274/submission/129443606), [F](https://codeforces.com/gym/103274/submission/129444866), [G](https://codeforces.com/gym/103274/submission/129448118), [H](https://codeforces.com/gym/103274/problem/H), [J](https://codeforces.com/gym/103274/submission/129443425), [K](https://codeforces.com/gym/103274/submission/129443064), [L](https://codeforces.com/gym/103274/submission/129442923), [M](https://codeforces.com/gym/103274/submission/129444210)
+
+</details>
