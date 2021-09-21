@@ -1,5 +1,3 @@
-# Treinos
-
 # Semana 1
 
 ## 20/08/21
