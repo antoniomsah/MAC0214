@@ -304,3 +304,39 @@ Soluções: [A](https://codeforces.com/contest/1574/submission/129344855), [B](h
 [M. Moon Dancers](https://codeforces.com/gym/103274/problem/M)
 
 Soluções: [A](https://codeforces.com/gym/103274/submission/129445429), [C](https://codeforces.com/gym/103274/submission/129442858), [E](https://codeforces.com/gym/103274/submission/129443606), [F](https://codeforces.com/gym/103274/submission/129444866), [G](https://codeforces.com/gym/103274/submission/129448118), [H](https://codeforces.com/gym/103274/problem/H), [J](https://codeforces.com/gym/103274/submission/129443425), [K](https://codeforces.com/gym/103274/submission/129443064), [L](https://codeforces.com/gym/103274/submission/129442923), [M](https://codeforces.com/gym/103274/submission/129444210)
+
+## 22/09/2021
+
+### Simulação do contest [Codeforces Round 725 (Div.3)](https://codeforces.com/contest/1538) (~2h15m)
+
+[A. Stone Game](https://codeforces.com/contest/1538/problem/A)
+
+[B. Friends and Candies](https://codeforces.com/contest/1538/problem/B)
+
+[C. Number of Paris](https://codeforces.com/contest/1538/problem/C)
+
+[F. Interesting Function](https://codeforces.com/contest/1538/problem/F)
+
+Soluções: [A](https://codeforces.com/contest/1538/submission/129617079), [B](https://codeforces.com/contest/1538/submission/129617475), [C](https://codeforces.com/contest/1538/submission/129621248), [F](https://codeforces.com/contest/1538/submission/129624469).
+
+## 24/09/2021
+
+### Simulação do contest [2017 United Kingdom and Ireland Programming Contest](https://codeforces.com/gym/101606) (~4h) _[Treino em time]_
+
+[A. Alien Sunset](https://codeforces.com/gym/101606/attachments)
+
+[C. Cued In](https://codeforces.com/gym/101606/attachments)
+
+[D. Deranging Hat](https://codeforces.com/gym/101606/attachments)
+
+[E. Education](https://codeforces.com/gym/101606/attachments)
+
+[F. Flipping Coins](https://codeforces.com/gym/101606/attachments)
+
+[I. I Work All Day](https://codeforces.com/gym/101606/attachments)
+
+[J. Just a Minim](https://codeforces.com/gym/101606/attachments)
+
+[L. Lizard Lounge](https://codeforces.com/gym/101606/attachments)
+
+Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](https://codeforces.com/gym/101606/submission/129788352), [D](https://codeforces.com/gym/101606/submission/129795379), [E](https://codeforces.com/gym/101606/submission/129799138), [F](https://codeforces.com/gym/101606/submission/129802182), [I](https://codeforces.com/gym/101606/submission/129784854), [J](https://codeforces.com/gym/101606/submission/129786069), [L](https://codeforces.com/gym/101606/submission/129794837).
