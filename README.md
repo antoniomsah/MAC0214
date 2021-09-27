@@ -340,3 +340,6 @@ Soluções: [A](https://codeforces.com/contest/1538/submission/129617079), [B](h
 [L. Lizard Lounge](https://codeforces.com/gym/101606/attachments)
 
 Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](https://codeforces.com/gym/101606/submission/129788352), [D](https://codeforces.com/gym/101606/submission/129795379), [E](https://codeforces.com/gym/101606/submission/129799138), [F](https://codeforces.com/gym/101606/submission/129802182), [I](https://codeforces.com/gym/101606/submission/129784854), [J](https://codeforces.com/gym/101606/submission/129786069), [L](https://codeforces.com/gym/101606/submission/129794837).
+
+## Tempo treinando na semana: _12h15m_
+## Tempo total: _62h20m_
