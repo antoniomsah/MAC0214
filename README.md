@@ -348,7 +348,7 @@ Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](htt
 
 ## 29/09/2021
 
-### Simulação do contest [Codeforces Round 744](https://codeforces.com/contest/1579) (~2h15m)
+### Simulação do contest [Codeforces Round 744 (Div.3)](https://codeforces.com/contest/1579) (~2h15m)
 
 [A. Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A)
 
