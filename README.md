@@ -348,7 +348,7 @@ Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](htt
 
 ## 29/09/2021
 
-### Simulação do contest [Codeforces Round 744](https://codeforces.com/contest/1579)
+### Simulação do contest [Codeforces Round 744](https://codeforces.com/contest/1579) (~2h15m)
 
 [A. Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A)
 
@@ -360,6 +360,4 @@ Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](htt
 
 [E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1)
 
-[E2. Array Optimization by Deque](https://codeforces.com/contest/1579/problem/E2)
-
-Soluções:
+Soluções: [A](https://codeforces.com/contest/1579/submission/130298382), [B](https://codeforces.com/contest/1579/submission/130298939), [C](https://codeforces.com/contest/1579/submission/130302319), [D](https://codeforces.com/contest/1579/submission/130300114), [E1](https://codeforces.com/contest/1579/submission/130299118).
