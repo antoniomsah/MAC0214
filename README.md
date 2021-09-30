@@ -16,7 +16,6 @@ Soluções:
 [C](https://codeforces.com/contest/1549/submission/126569114)
 
 ## 21/08/21
-### Resolução do problema [ Cherry](https://codeforces.com/contest/1554/problem/A) [(Solução)](https://codeforces.com/contest/1554/submission/126634790) (~15min)
 
 ### Simulação do contest [2020-2021 ICPC - Gran Premio de Mexico - Repechaje](https://codeforces.com/gym/102966) (~5h)  _[Treino em time]_
 
@@ -40,26 +39,10 @@ Soluções:
 
 Soluções: [A](https://codeforces.com/gym/102966/submission/126653791), [C](https://codeforces.com/gym/102966/submission/126644483), [D](https://codeforces.com/gym/102966/submission/126652758), [E](https://codeforces.com/gym/102966/submission/126651968), [G](https://codeforces.com/gym/102966/submission/126646076), [H](https://codeforces.com/gym/102966/submission/126645738), [J](https://codeforces.com/gym/102966/submission/126650791), [K](https://codeforces.com/gym/102966/submission/126644516), [L](https://codeforces.com/gym/102966/submission/126643630).
 
-## 22/08/2021
-### Resolução dos problemas: (~50m)
-
-[A. PizzaForces](https://codeforces.com/contest/1555/problem/A)
-
-[B. Two Tables](https://codeforces.com/contest/1555/problem/B)
-
-Soluções: [A](https://codeforces.com/contest/1555/submission/126722293), [B](https://codeforces.com/contest/1555/submission/126723419).
-
-## Tempo treinando na semana: _8h30m_
-## Tempo total: _8h30m_
+## Tempo treinando na semana: _7h25m_
+## Tempo total: _7h25m_
 
 # Semana 2 
-
-## 23/08/2021
-### Resolução do problema (~30m)
-
-[C. Coin Rows](https://codeforces.com/contest/1555/problem/C)
-
-Solução: [C](https://codeforces.com/contest/1555/submission/126796913)
 
 ## 24/08/2021
 ### Participação no contest [Codeforces Round #740 (Div.2)](https://codeforces.com/contest/1561) (~2h30m)
@@ -117,7 +100,7 @@ Soluções: [A](https://codeforces.com/contest/1562/submission/127061175), [B](h
 Soluções: [A](https://codeforces.com/contest/1520/submission/127148222), [B](https://codeforces.com/contest/1520/submission/127148788), [C](https://codeforces.com/contest/1520/submission/127149896), [D](https://codeforces.com/contest/1520/submission/127151484), [E](https://codeforces.com/contest/1520/submission/127152641).
 
 ## 27/08/2021
-### Resolução de problemas da [Facebook Hacker Cup - Qualification Round](https://www.facebook.com/codingcompetitions/hacker-cup) (~20m)
+### Participação no contest [Facebook Hacker Cup - Qualification Round](https://www.facebook.com/codingcompetitions/hacker-cup) (~20m)
 
 [A1. Consistency - Chapter 1](https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A1)
 
@@ -155,7 +138,7 @@ Solução: [A](https://codeforces.com/contest/1556/submission/127337490)
 
 Solução: [B](https://codeforces.com/contest/1556/submission/127396891).
 
-### Resolução de problemas da [Facebook Hacker Cup - Qualification Round](https://www.facebook.com/codingcompetitions/hacker-cup) (~2h)
+### Continuação da [Facebook Hacker Cup - Qualification Round](https://www.facebook.com/codingcompetitions/hacker-cup) (~2h)
 
 [A2. Consistency - Chapter 2](https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A2)
 
@@ -163,8 +146,8 @@ Solução: [B](https://codeforces.com/contest/1556/submission/127396891).
 
 Soluções: [A2](https://github.com/antoniomsah/MAC0214/blob/main/FacebookHackerCup/QualificationRound/A2.cpp), [C1](https://github.com/antoniomsah/MAC0214/blob/main/FacebookHackerCup/QualificationRound/C1.cpp).
 
-## Tempo treinando na semana: _22h05m_
-## Tempo total: _30h35m_
+## Tempo treinando na semana: _21h35m_
+## Tempo total: _29h00m_
 
 # Semana 3
 
@@ -201,7 +184,7 @@ Soluções: [A](https://codeforces.com/gym/103145/submission/127652828), [E](htt
 Soluções: [C](https://codeforces.com/gym/102890/submission/127861845), [D](https://codeforces.com/gym/102890/submission/127862616), [G](https://codeforces.com/gym/102890/submission/127870381), [I](https://codeforces.com/gym/102890/submission/127860774), [L](https://codeforces.com/gym/102890/submission/127862244).
 
 ## Tempo treinando na semana: _10h_
-## Tempo total: _40h35m_
+## Tempo total: _39h00m_
 
 # Semana 4
 
@@ -240,7 +223,7 @@ Soluções: [A1](https://github.com/antoniomsah/MAC0214/blob/main/FacebookHacker
 Soluções: [A](https://codeforces.com/contest/1566/submission/128597723), [B](https://codeforces.com/contest/1566/submission/128611191), [C](https://codeforces.com/contest/1566/submission/128631821), [D1](https://codeforces.com/contest/1566/submission/128638185).
 
 ## Tempo treinando na semana: _5h30m_
-## Tempo total: _46h05m_
+## Tempo total: _45h30m_
 
 # Semana 5
 
@@ -265,7 +248,7 @@ Soluções: [A](https://codeforces.com/contest/1566/submission/128597723), [B](h
 Soluções: [A](https://codeforces.com/gym/102791/submission/129095092), [B](https://codeforces.com/gym/102791/submission/129096269), [C](https://codeforces.com/gym/102791/submission/129098722), [D](https://codeforces.com/gym/102791/submission/129098777), [E](https://codeforces.com/gym/102791/submission/129102671), [F](https://codeforces.com/gym/102791/submission/129106142), [H](https://codeforces.com/gym/102791/submission/129109251).
 
 ## Tempo treinando na semana: _4h_
-## Tempo total: _50h05m_
+## Tempo total: _49h30m_
 
 # Semana 6
 
@@ -342,7 +325,7 @@ Soluções: [A](https://codeforces.com/contest/1538/submission/129617079), [B](h
 Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](https://codeforces.com/gym/101606/submission/129788352), [D](https://codeforces.com/gym/101606/submission/129795379), [E](https://codeforces.com/gym/101606/submission/129799138), [F](https://codeforces.com/gym/101606/submission/129802182), [I](https://codeforces.com/gym/101606/submission/129784854), [J](https://codeforces.com/gym/101606/submission/129786069), [L](https://codeforces.com/gym/101606/submission/129794837).
 
 ## Tempo treinando na semana: _12h15m_
-## Tempo total: _62h20m_
+## Tempo total: _60h45m_
 
 # Semana 7
 
