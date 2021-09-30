@@ -343,3 +343,23 @@ Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](htt
 
 ## Tempo treinando na semana: _12h15m_
 ## Tempo total: _62h20m_
+
+# Semana 7
+
+## 29/09/2021
+
+### Simulação do contest [Codeforces Round 744](https://codeforces.com/contest/1579)
+
+[A. Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A)
+
+[B. Shifting Sort](https://codeforces.com/contest/1579/problem/B)
+
+[C. Ticks](https://codeforces.com/contest/1579/problem/C)
+
+[D. Productive Meeting](https://codeforces.com/contest/1579/problem/D)
+
+[E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1)
+
+[E2. Array Optimization by Deque](https://codeforces.com/contest/1579/problem/E2)
+
+Soluções:
