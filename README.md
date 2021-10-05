@@ -344,3 +344,28 @@ Soluções: [A](https://codeforces.com/gym/101606/submission/129787530), [C](htt
 [E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1)
 
 Soluções: [A](https://codeforces.com/contest/1579/submission/130298382), [B](https://codeforces.com/contest/1579/submission/130298939), [C](https://codeforces.com/contest/1579/submission/130302319), [D](https://codeforces.com/contest/1579/submission/130300114), [E1](https://codeforces.com/contest/1579/submission/130299118).
+
+## Tempo treinando na semana: _2h15m_
+## Tempo total: 63h
+
+# Semana 8
+
+## 05/10/2021
+
+### Simulação do contest [2018-2019 ACM-ICPC Pacific Northwest Regional Contest (Div.1)](https://codeforces.com/gym/101982) (~5h) _[Treino em time]_
+
+[A. Exam](https://codeforces.com/gym/101982/attachments)
+
+[B. Coprime Integers](https://codeforces.com/gym/101982/attachments)
+
+[C. Contest Setting](https://codeforces.com/gym/101982/attachments)
+
+[G. Goat on a Rope](https://codeforces.com/gym/101982/attachments)
+
+[H. Repeating Goldbachs](https://codeforces.com/gym/101982/attachments)
+
+[J. Time Limits](https://codeforces.com/gym/101982/attachments)
+
+[L. Liars](https://codeforces.com/gym/101982/attachments)
+
+Soluções: [A](https://codeforces.com/gym/101982/submission/130836680), [B](https://codeforces.com/gym/101982/submission/130844639), [C](https://codeforces.com/gym/101982/submission/130840288), [G](https://codeforces.com/gym/101982/submission/130838855), [H](https://codeforces.com/gym/101982/submission/130839600), [J](https://codeforces.com/gym/101982/submission/130836277), [L](https://codeforces.com/gym/101982/submission/130837917).
