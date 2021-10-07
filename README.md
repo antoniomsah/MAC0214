@@ -370,7 +370,7 @@ Soluções: [A](https://codeforces.com/contest/1579/submission/130298382), [B](h
 
 Soluções: [A](https://codeforces.com/gym/101982/submission/130836680), [B](https://codeforces.com/gym/101982/submission/130844639), [C](https://codeforces.com/gym/101982/submission/130840288), [G](https://codeforces.com/gym/101982/submission/130838855), [H](https://codeforces.com/gym/101982/submission/130839600), [J](https://codeforces.com/gym/101982/submission/130836277), [L](https://codeforces.com/gym/101982/submission/130837917).
 
-## 07/10/2021
+## 06/10/2021
 
 ### Simulação do contest [Codeforces Round 746 (Div. 2)](https://codeforces.com/contest/1592) (~2h)
 
