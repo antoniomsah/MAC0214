@@ -379,3 +379,51 @@ Soluções: [A](https://codeforces.com/gym/101982/submission/130836680), [B](htt
 [B. Hemose Shopping](https://codeforces.com/contest/1592/problem/B)
 
 Soluções: [A](https://codeforces.com/contest/1592/submission/130978494), [B](https://codeforces.com/contest/1592/submission/130983226).
+
+## 08/10/2021
+
+### Simulação do contest [ACM International Collegiate Programming Contest, Arabella Collegiate Programming Contest (2018)](https://codeforces.com/gym/101972) (~5h) _[Treino em time]_
+
+[A. Multiplication Dilemnma](https://codeforces.com/gym/101972/problem/A)
+
+[C. Shortest Path](https://codeforces.com/gym/101972/problem/C)
+
+[D. Wooden Fence](https://codeforces.com/gym/101972/problem/D)
+
+[E. Stupid Submissions](https://codeforces.com/gym/101972/problem/E)
+
+[F. I'm Bored!](https://codeforces.com/gym/101972/problem/F)
+
+[G. Minmax](https://codeforces.com/gym/101972/problem/G)
+
+[H. Beautiful Substrings](https://codeforces.com/gym/101972/problem/H)
+
+[J. Even Numbers](https://codeforces.com/gym/101972/problem/J)
+
+[K. Cyclic Shift](https://codeforces.com/gym/101972/problem/K)
+
+Soluções: [A](https://codeforces.com/gym/101972/submission/131231484), [C](https://codeforces.com/gym/101972/submission/131240092), [D](https://codeforces.com/gym/101972/submission/131221918), [E](https://codeforces.com/gym/101972/submission/131231907), [F](https://codeforces.com/gym/101972/submission/131244306), [G](https://codeforces.com/gym/101972/submission/131244907), [J](https://codeforces.com/gym/101972/submission/131246896), [K](https://codeforces.com/gym/101972/submission/131217699).
+
+## Tempo treinando na semana: _12h_
+## Tempo total: 75h
+
+# Semana  9
+
+## 13/10/2021
+### Participação no contest [Codeforces Round #748 (Div.3)](https://codeforces.com/contest/1593) (~2h15m)
+
+[A. Elections](https://codeforces.com/contest/1593/problem/A)
+
+[B. Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B)
+
+[C. Save More Mice](https://codeforces.com/contest/1593/problem/C)
+
+[D1. All are Same](https://codeforces.com/contest/1593/problem/D1)
+
+Soluções: [A](https://codeforces.com/contest/1593/submission/131751189), [B](https://codeforces.com/contest/1593/submission/131767714), [C](https://codeforces.com/contest/1593/submission/131776055), [D1](https://codeforces.com/contest/1593/submission/131786209).
+
+## Upsolving do contest [Codeforces Round #748 (Div.3)](https://codeforces.com/contest/1593) (~15m)
+
+[E. Gardener and Tree](https://codeforces.com/contest/1593/problem/E)
+
+Soluções: [E](https://codeforces.com/contest/1593/submission/131854583)
