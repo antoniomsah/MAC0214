@@ -481,7 +481,7 @@ Soluções: [A](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submissio
 
 Resolvemos os problemas A,B,C,E,F,G,H,J.
 
-Soluções: _não sei aonde que pegar elas vou criar um pastebin_.
+Soluções: _não sei aonde que pegar elas vou criar um repositorio_.
 
 ## Tempo treinando na semana: _12h_
 ## Tempo total: 91h45m
