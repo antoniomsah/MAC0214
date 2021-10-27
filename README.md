@@ -427,3 +427,61 @@ Soluções: [A](https://codeforces.com/contest/1593/submission/131751189), [B](h
 [E. Gardener and Tree](https://codeforces.com/contest/1593/problem/E)
 
 Soluções: [E](https://codeforces.com/contest/1593/submission/131854583)
+
+## 17/10/2021
+### Participação no contest [Codeforces Round #749 (Div. 1 + Div. 2)](https://codeforces.com/contest/1586) (~2h15m)
+
+[A. Windblume Ode](https://codeforces.com/contest/1586/problem/A)
+
+[B. Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B)
+
+Soluções: [A](https://codeforces.com/contest/1586/submission/132223487), [B](https://codeforces.com/contest/1586/submission/132253081).
+
+## Tempo treinando na semana: _4h45m_
+## Tempo total: 79h45m
+
+# Semana 10
+
+## 18/10/2021
+### Simulação do contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) (~5h) _[Treino em time]_
+
+[A. No Thanks!](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/A)
+
+[B. Exam Manipulation](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/B)
+
+[G. Ant Typing](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/G)
+
+[H. Dominating Duos](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/H)
+
+[J. Longest Common Subsequence](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/J)
+
+[P. Reconstruct Sum](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/P)
+
+[Q. Triangular Collection](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/Q)
+
+Soluções: [A](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132373940), [B](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132376935), [G](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132388936), [H](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132383903), [J](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132386158), [P](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132374392), [Q](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132382290).
+
+## 22/10/2021
+### Simulação do contest [2020 ACM-ICPC Nordic Collegiate Programming Contest](https://codeforces.com/group/5jHvDMn9r4/contest/350354) (~5h) _[Treino em time]_
+
+[A. Array of Discord](https://codeforces.com/group/5jHvDMn9r4/contest/350354/problem/A)
+
+[C. Coin Stacks](https://codeforces.com/group/5jHvDMn9r4/contest/350354/problem/C)
+
+[D. Dams in Distress](https://codeforces.com/group/5jHvDMn9r4/contest/350354/problem/D)
+
+[G. Gig Combinatorics](https://codeforces.com/group/5jHvDMn9r4/contest/350354/problem/G)
+
+[M. Methodic Multiplication](https://codeforces.com/group/5jHvDMn9r4/contest/350354/problem/M)
+
+Soluções: [A](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submission/132722146), [C](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submission/132726280), [D](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submission/132728324), [G](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submission/132728804), [M](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submission/132721145).
+
+## 23/10/2021
+### Aquecimento Subregional (~2h) _[Treino em time]_
+
+Resolvemos os problemas A,B,C,E,F,G,H,J.
+
+Soluções: _não sei aonde que pegar elas vou criar um pastebin_.
+
+## Tempo treinando na semana: _12h_
+## Tempo total: 91h45m
