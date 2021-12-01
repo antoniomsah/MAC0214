@@ -481,7 +481,52 @@ Soluções: [A](https://codeforces.com/group/5jHvDMn9r4/contest/350354/submissio
 
 Resolvemos os problemas A,B,C,E,F,G,H,J.
 
-Soluções: _não sei aonde que pegar elas vou criar um repositorio_.
+Soluções: _ficou no meu computador as resoluções e estous em ele no momento_.
 
 ## Tempo treinando na semana: _12h_
 ## Tempo total: 91h45m
+
+## 29/10/2021
+
+### Participação no contest [Educational Codeforces Round 116](https://codeforces.com/contest/1606) (~2h)
+
+[A. AB Balance](https://codeforces.com/contest/1606/problem/A)
+
+[B. Update Files](https://codeforces.com/contest/1606/problem/B)
+
+[C. Banknotes](https://codeforces.com/contest/1606/problem/C)
+
+Soluções: [A](https://codeforces.com/contest/1606/submission/133483790), [B](https://codeforces.com/contest/1606/submission/133489566), [C](https://codeforces.com/contest/1606/submission/133504665)
+
+
+## 30/10/2021
+### Subregional (~5h) _[Treino em time]_
+
+Meu time é o opa e resolvemos 6 problemas, por enquanto estou sem as resoluções pois ficaram no meu computador. Mas, é possível ver pelo resultado final que de fato resolvemos 6.
+
+## Tempo treinando na semana: _7h_
+## Tempo total: 98h45m
+
+# Semana 11
+
+## 02/11/2021
+
+### Participação no contest [Codeforces Round 753](https://codeforces.com/contest/1607) (~2h)
+
+[A. Linear Keyboard](https://codeforces.com/contest/1607/problem/A)
+
+[B. Odd Grasshopper](https://codeforces.com/contest/1607/problem/B)
+
+Soluções: [A](https://codeforces.com/contest/1607/submission/134067753), [B](https://codeforces.com/contest/1607/submission/134089039)
+
+## Upsolving do contest [Codeforces Round 753](https://codeforces.com/contest/1607) (~30m)
+
+[C. Minimum Extraction](https://codeforces.com/contest/1607/problem/C)
+
+[D. Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D)
+
+Soluções: [C](https://codeforces.com/contest/1607/submission/134252504), [D](https://codeforces.com/contest/1607/submission/134253180)
+
+## Tempo treinando na semana: 2h30m
+## Tempo total: 101h15m
+
