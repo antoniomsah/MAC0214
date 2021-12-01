@@ -519,7 +519,7 @@ Meu time é o opa e resolvemos 6 problemas, por enquanto estou sem as resoluçõ
 
 Soluções: [A](https://codeforces.com/contest/1607/submission/134067753), [B](https://codeforces.com/contest/1607/submission/134089039)
 
-## Upsolving do contest [Codeforces Round 753](https://codeforces.com/contest/1607) (~30m)
+### Upsolving do contest [Codeforces Round 753](https://codeforces.com/contest/1607) (~30m)
 
 [C. Minimum Extraction](https://codeforces.com/contest/1607/problem/C)
 
